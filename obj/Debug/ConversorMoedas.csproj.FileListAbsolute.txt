@@ -1,0 +1,7 @@
+C:\Users\thiag\source\repos\ConversorMoedas\obj\Debug\ConversorMoedas.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\ConversorMoedas\obj\Debug\ConversorMoedas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\ConversorMoedas\bin\Debug\ConversorMoedas.exe.config
+C:\Users\thiag\source\repos\ConversorMoedas\bin\Debug\ConversorMoedas.exe
+C:\Users\thiag\source\repos\ConversorMoedas\bin\Debug\ConversorMoedas.pdb
+C:\Users\thiag\source\repos\ConversorMoedas\obj\Debug\ConversorMoedas.exe
+C:\Users\thiag\source\repos\ConversorMoedas\obj\Debug\ConversorMoedas.pdb
